@@ -63,6 +63,7 @@ A mobile news application developed with Flutter and Dart, designed to deliver t
 
 ## Project Structure
 
+![News App](assets/nn3.png) 
 
 ### Components
 
@@ -71,7 +72,7 @@ A mobile news application developed with Flutter and Dart, designed to deliver t
 ### Model
 
 - **`article_model.dart`**: Defines the data structure for news articles.
-- **`source_model.dart`**: Defines the data structure for news sources.
+- **`source_model.dart`**: Defines the data structure for news sources from api.
 
 ### Pages
 
@@ -86,10 +87,11 @@ A mobile news application developed with Flutter and Dart, designed to deliver t
 - **`main.dart`**: The entry point of the application that initializes the app and sets up the routes.
 
 ## Screenshots
-
+![News App](assets/nn1.jpg) 
+![News App](assets/nn2.jpg) 
 ## Contribution
 
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
+If you have suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
 Thank you for using the News App!
 
